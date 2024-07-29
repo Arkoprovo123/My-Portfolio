@@ -7,7 +7,6 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Live Demo](#live-demo)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contact](#contact)
 
