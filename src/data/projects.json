@@ -1,0 +1,36 @@
+[
+    {
+        "title": "My Portfolio",
+        "imageSrc": "projects/project.png",
+        "description": "My portfolio which provides a concise overview of my experience, skills, and projects in the field of software development.",
+        "skills": ["HTML", "CSS", "Javascript", "React"],
+        "demo": "https://github.com/Arkoprovo123/Banking-Application",
+        "source": "https://github.com/Arkoprovo123/Banking-Application"
+  
+    },
+    {
+      "title": "Banking Application",
+      "imageSrc": "projects/project.png",
+      "description": "A banking application  with functionalities like creating accounts, fetching account details, making deposits and withdrawals, and deleting accounts.",
+      "skills": ["Spring Boot", "Java", "Hibernate", "MySQL"],
+      "demo": "https://github.com/Arkoprovo123/Banking-Application",
+      "source": "https://github.com/Arkoprovo123/Banking-Application"
+
+    },
+    {
+      "title": " On-road Driver Drowsiness Detection System",
+      "imageSrc": "projects/project.png",
+      "description": "An AI project to detect driver drowsiness and alert them to prevent accidents.",
+      "skills": ["Machine Learning", "Python", "OpenCV"],
+      "demo": "https://github.com/Arkoprovo123/On-road-Driver-Drowsiness-Detection-System/tree/master/screenshots",
+      "source": "https://github.com/Arkoprovo123/On-road-Driver-Drowsiness-Detection-System"
+    },
+    {
+      "title": "AI Desktop Voice Assistant",
+      "imageSrc": "projects/project.png",
+      "description": "An AI Voice Assistant using Microsoft’s speech API to perform actions like playing music and opening websites using voice commands.",
+      "skills": ["Machine Learning", "Python", "Pygame"],
+      "demo": "https://github.com/Arkoprovo123/AI-Desktop-Voice-Assistant",
+      "source": "https://github.com/Arkoprovo123/AI-Desktop-Voice-Assistant"
+    }
+  ]

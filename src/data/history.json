@@ -1,0 +1,13 @@
+[
+    {
+        "role": "Software Engineer",
+        "organisation": "EY",
+        "startDate": "Nov, 2023",
+        "endDate": "Present",
+        "experiences": [
+            "Worked in building a customer management system for client", 
+            "Implemented user registration and authentication"
+        ],
+        "imageSrc": "history/ey.png"
+    }
+  ]
