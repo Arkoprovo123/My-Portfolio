@@ -11,7 +11,7 @@ export const Hero = () => {
                I'm a Full-stack developer with 1 year of experience with Java.
                Reach out if you'd like  to learn more.
             </p>
-            <a href='https://www.linkedin.com/in/arkoprovo-datta/' target='_blank' className={styles.contactBtn}>
+            <a href='mailto:arkoprovodatta@gmail.com' target='_blank' className={styles.contactBtn}>
               Contact Me
             </a>            
         </div>
