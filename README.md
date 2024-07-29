@@ -38,7 +38,7 @@ Use the contact form to send me a message directly from the website.
 If you have any questions or want to connect, feel free to reach out:
 
 - **Email:** arkoprovodatta@gmail.com
-- **LinkedIn:** Arkoprovo Datta
-- **GitHub:** Arkoprovo123
+- **LinkedIn:** https://www.linkedin.com/in/arkoprovo-datta/
+- **GitHub:** https://github.com/Arkoprovo123/
 
 Thank you for visiting my portfolio!
