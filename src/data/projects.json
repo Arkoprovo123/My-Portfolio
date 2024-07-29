@@ -4,8 +4,8 @@
         "imageSrc": "projects/project.png",
         "description": "My portfolio which provides a concise overview of my experience, skills, and projects in the field of software development.",
         "skills": ["HTML", "CSS", "Javascript", "React"],
-        "demo": "https://github.com/Arkoprovo123/Banking-Application",
-        "source": "https://github.com/Arkoprovo123/Banking-Application"
+        "demo": "https://arkoprovo-portfolio.netlify.app/",
+        "source": "https://github.com/Arkoprovo123/My-Portfolio"
   
     },
     {
