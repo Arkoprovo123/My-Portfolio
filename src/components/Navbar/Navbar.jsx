@@ -24,6 +24,7 @@ const Navbar = () => {
                 <li><a href="#experience">Experience</a></li>
                 <li><a href="#projects">Projects</a></li>
                 <li><a href="#contact">Contact</a></li>
+                <li><a href="https://drive.google.com/file/d/1ATxprnxppuyVc0UVxMaFZ9YJdDBzbSZI/view?usp=sharing" target='_blank'>Resume</a></li>
             </ul>
         </div>
     </nav>
