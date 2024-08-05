@@ -28,13 +28,13 @@
 
 .menuItems {
   display: flex;
-  gap: 47px;
+  gap: 40px;
   list-style: none;
 }
 
 .menuItems a {
-  font-size: 25px;
-  color: var(--color-text);
+  font-size: 20px;
+  color: rgb(139, 155, 209);
   text-decoration: none;
 }
 
