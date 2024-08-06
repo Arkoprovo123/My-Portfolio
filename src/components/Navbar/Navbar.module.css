@@ -34,8 +34,10 @@
 
 .menuItems a {
   font-size: 20px;
+  font-weight: bold;
   color: rgb(139, 155, 209);
   text-decoration: none;
+  letter-spacing: 1px;
 }
 
 @media screen and (max-width: 830px) {

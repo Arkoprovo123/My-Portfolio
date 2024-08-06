@@ -2,6 +2,7 @@ import React from "react";
 
 import styles from "./About.module.css";
 import { getImageUrl } from "../../utils";
+import { Coding } from "../Coding/Coding";
 
 export const About = () => {
   return (
@@ -46,6 +47,7 @@ export const About = () => {
           </li> */}
         </ul>
       </div>
+      <Coding />
     </section>
   );
 };

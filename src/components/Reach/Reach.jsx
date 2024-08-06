@@ -34,7 +34,7 @@ export const Reach = () => {
     return (
     <section className={styles.container}>
         <form onSubmit={onSubmit} className={styles.formbox}>
-            <h2>Get in touch</h2>
+            <h2>Send a Message</h2>
             <div className={styles.inputbox}>
                 <label>Full Name</label>
                 <input type='text' className={styles.inputfield} placeholder='Enter your name' name='name' required />
