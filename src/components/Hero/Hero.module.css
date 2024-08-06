@@ -109,3 +109,16 @@
     align-items: center;
   }
 }
+
+@media screen and (max-width: 650px) {
+  .title{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 60px;
+  }
+
+  .description{
+    font-size: 25px;
+  }
+
+}

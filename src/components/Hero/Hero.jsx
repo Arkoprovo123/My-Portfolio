@@ -8,7 +8,7 @@ export const Hero = () => {
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, I'm Arkoprovo.</h1>
             <p className={styles.description}>
-               I'm a Full-stack developer with 1 year of experience with Java.
+               I'm a Full-stack developer with 1 year of experience.
                Reach out if you'd like  to learn more.
             </p>
             <a href='mailto:arkoprovodatta@gmail.com' target='_blank' className={styles.contactBtn}>

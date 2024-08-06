@@ -122,3 +122,9 @@
     gap: 9px;
   }
 }
+
+@media screen and (max-width: 650px) {
+  .title{
+    text-align: center;
+  }
+}
