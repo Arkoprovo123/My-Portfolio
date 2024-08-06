@@ -81,7 +81,7 @@
     }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 650px) {
     .formbox{
         max-width: 300px;
     }

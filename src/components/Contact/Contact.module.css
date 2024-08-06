@@ -103,7 +103,7 @@
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 650px) {
   .link{
     flex-direction: column;
     align-items: center;    
