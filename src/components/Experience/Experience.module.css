@@ -101,6 +101,10 @@
 }
 
 @media screen and (max-width: 830px) {
+  .container{
+    margin-top: 0px;
+  }
+
   .content {
     flex-direction: column;
     align-items: center;

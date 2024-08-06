@@ -80,3 +80,13 @@
         margin-left: 0px;
     }
 }
+
+@media screen and (max-width: 400px) {
+    .formbox{
+        max-width: 300px;
+    }
+
+    .submitBtn{
+        width: 100px;
+    }
+}
