@@ -1,4 +1,13 @@
 [
+      {
+        "title": "Employee Management System",
+        "imageSrc": "projects/project.png",
+        "description": "A full-stack application to manage employee details, including adding, updating, and deleting employee records.",
+        "skills": ["React", "Spring Boot", "MySQL", "Java"],
+        "demo": "https://github.com/Arkoprovo123/Employee-Management-System",
+        "source": "https://github.com/Arkoprovo123/Employee-Management-System"
+
+    },
     {
         "title": "My Portfolio",
         "imageSrc": "projects/project.png",
