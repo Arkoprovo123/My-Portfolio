@@ -27,7 +27,7 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 
 ## Live Demo
 
-You can visit the live demo of my portfolio website at: [Coming soon](To be deployed)
+You can visit the live demo of my portfolio website at: [https://arkoprovo-portfolio.netlify.app/]
 
 ## Usage
 Explore the homepage to learn more about me and my skills.
